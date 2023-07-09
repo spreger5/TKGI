@@ -1,10 +1,28 @@
 TKGI-Links:
 ===========
 
-Einen PKS-K8s-Cluster erstellen:
+Einen PKS-K8s-Cluster erstellen: Material basiert noch auf PCF/PKS
 --------------------------------
 
    Interessante Hinweise, welche Objekte beim Erstellen eines K8s-Clusters in NSX-T erstellt werden.
 
    https://keithlee.ie/2018/12/20/pks-nsx-t-home-lab-part-12-create-a-k8s-cluster/
+
+Zertifikat/Key von NSX-T in TKGI registrieren: Generate and Register the NSX-T Management TLS Certificate and Private Key
+----------------------------------------------
+
+   https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid-Integrated-Edition/1.15/tkgi/GUID-nsxt-install-tls-certs.html
+   https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid-Integrated-Edition/1.15/tkgi/GUID-nsxt-generate-pi-cert.html#certificate-super-user-script
+
+      Achtung: Fehler in Skript (Zeilenende funktioniert fuer Curl so nicht)?
+
+Riesenhandbuch: VMware Tanzu Kubernetes Grid Integrated Edition
+---------------
+
+   https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid-Integrated-Edition/1.15/VMware-TKGI-v1.15-Documentation.pdf
+
+Konfiguration der CNI-Extensions:
+---------------------------------
+
+   https://docs.vmware.com/en/VMware-Tanzu-Kubernetes-Grid-Integrated-Edition/1.15/tkgi/GUID-network-profiles-define.html#cni-extensions
 
