@@ -1,0 +1,10 @@
+TKGI-Links:
+===========
+
+Einen PKS-K8s-Cluster erstellen:
+--------------------------------
+
+   Interessante Hinweise, welche Objekte beim Erstellen eines K8s-Clusters in NSX-T erstellt werden.
+
+   https://keithlee.ie/2018/12/20/pks-nsx-t-home-lab-part-12-create-a-k8s-cluster/
+
