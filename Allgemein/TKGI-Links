@@ -1,6 +1,15 @@
 TKGI-Links:
 ===========
 
+Vollstaendige Umgebung (NSX-T, OpsManager, BOSH-Director, TKGI und K8s-Cluster erstellen): Genau bebilderte Anleitungen
+------------------------------------------------------------------------------------------
+   Curl-Befehle fuer NSX-T-Abfragen (IP-Pools, IP-Bloecke, logische Router etc.), Zertifikate generieren,
+   NSX-T-Ressourcen anlegen,
+   OpsManager via OVF-Template installieren,
+   TKGI und BOSH installieren.
+
+   https://little-stuff.com/2020/09/30/tgki-1-9-with-windows-workers/#Deploying_Tanzu_Operations_Manager
+
 Einen PKS-K8s-Cluster erstellen: Material basiert noch auf PCF/PKS
 --------------------------------
 
